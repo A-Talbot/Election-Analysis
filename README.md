@@ -23,11 +23,14 @@ The main purpose of this audit is to analyse the election results and submit the
 
 * The total number of votes casted in this congressional election were **369,711**
 * The number of votes and percentage of total votes for each county in the precinct is as follows:
-![County_Breakdown](Resources/County_Breakdown.png)!
+
+![County_Breakdown](Resources/County_Breakdown.png)
 * The following depicts a breakdown of the number of votes and precentage of total votes each candidate receieved:
-![Candidate Breakdown](Resources/Candidate_Breakdown.png)!
+
+![Candidate Breakdown](Resources/Candidate_Breakdown.png)
 * **Diana DeGette** was the winner of this election, and the following image presents the total number of votes won as well as the overall percentage of votes recieved, thus securing the popular vote
-![Winner](Resrouces/Winner.png)!
+
+![Winner](Resources/Winner.png)
 
 ## Election Audit Summary
 
