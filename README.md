@@ -39,6 +39,6 @@ As presented in this README file, it is clear that the script was able to carry 
 * The functions containing **county** can be swapped for **state** *(please see image below)*
 
      ![State](Resources/County_to_State.png)
-* Additional keys within the dictionary functions could be used to define political party *(please see image below)*
+* Additional columns within the list functions could be used to define political party *(please see image below)*
 
      ![Political Party](Resources/Political_Party.png)
