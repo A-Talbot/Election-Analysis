@@ -1,4 +1,4 @@
-# ELection Audit
+# Election Audit
 
 *Prepared for Seth and Tom - 2021 JAN 17*
 
