@@ -35,8 +35,10 @@ The main purpose of this audit is to analyse the election results and submit the
 
 ## Election Audit Summary
 
-As presented in this README file, it is clear that the script was able to carry out all functions and data analysis requests, and as such, the script can be easily modified as necessary for use in any election:
-* For use in a federal election, the functions containing **county** can be swapped for **state** *(please see image below)*
+As presented in this README file, it is clear that the script was able to carry out all functions and data analysis requests, and as such, the script can be easily modified as necessary for use in any election, for example, in a federal election:
+* The functions containing **county** can be swapped for **state** *(please see image below)*
 
      ![State](Resources/County_to_State.png)
-* 
+* Additional keys within the dictionary functions could be used to define political party *(please see image below)*
+
+     ![Political PArty](Resrouces/Political_Party.png)
