@@ -41,4 +41,4 @@ As presented in this README file, it is clear that the script was able to carry 
      ![State](Resources/County_to_State.png)
 * Additional keys within the dictionary functions could be used to define political party *(please see image below)*
 
-     ![Political PArty](Resrouces/Political_Party.png)
+     ![Political Party](Resources/Political_Party.png)
