@@ -24,20 +24,17 @@ The main purpose of this audit is to analyse the election results and submit the
 * The total number of votes casted in this congressional election were **369,711**
 * The number of votes and percentage of total votes for each county in the precinct is as follows:
 
-![County_Breakdown](Resources/County_Breakdown.png)
+          ![County_Breakdown](Resources/County_Breakdown.png)
+* As confirmed in the above image, Denver was the county with the largest number of votes
 * The following depicts a breakdown of the number of votes and precentage of total votes each candidate receieved:
 
-![Candidate Breakdown](Resources/Candidate_Breakdown.png)
+          ![Candidate Breakdown](Resources/Candidate_Breakdown.png)
 * **Diana DeGette** was the winner of this election, and the following image presents the total number of votes won as well as the overall percentage of votes recieved, thus securing the popular vote
 
-![Winner](Resources/Winner.png)
+          ![Winner](Resources/Winner.png)
 
 ## Election Audit Summary
 
-### Advantages & Disadvantages
-
-Smoother programming, debugging, and code base that is easier to maintain are all advantages of refactoring code. The typical clear and concise outcome of refactored code promotes easy readability. That being said, when in the process of refactoring code, one may introduce bugs when refactored incorrectly.
-
-### Pros & Cons 
-
-Specifically to this particular dataset, refactoring has a practical application to the orginal VBA script as it enables thousands of stocks to be analyzed at one time. 
+As presented in this README file, it is clear that the script was able to carry out all functions and data analysis requests, and as such, the script can be easily modified as necessary for use in any election.
+* For use in a federal election, the functions containing *county* can be swapped for *state*
+* 
